@@ -15,6 +15,7 @@ Project is created using:
 * HTML5
 * CSS3
 * JavaScript
+* Third party API (jQuery, jQuery moment, Bootstrap)
 
 ## **_Mockup_**
 ![image](https://user-images.githubusercontent.com/78329298/110901586-6598b780-82b9-11eb-9577-074171e58c55.png)
